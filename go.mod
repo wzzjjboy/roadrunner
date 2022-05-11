@@ -8,7 +8,6 @@ require (
 	github.com/fatih/color v1.13.0
 	github.com/joho/godotenv v1.4.0
 	github.com/olekukonko/tablewriter v0.0.5
-	github.com/roadrunner-server/amqp/v2 v2.14.0
 	github.com/roadrunner-server/api/v2 v2.17.0
 	github.com/roadrunner-server/beanstalk/v2 v2.13.0
 	github.com/roadrunner-server/boltdb/v2 v2.14.0
@@ -51,6 +50,7 @@ require (
 	github.com/spf13/viper v1.11.0
 	github.com/stretchr/testify v1.7.1
 	github.com/temporalio/roadrunner-temporal v1.4.0-rc.2
+	gitlab.yewifi.com/alan.wang/roadrunner-server/amqp/v2 v2.0.0-20220511025715-5a68ad6f7416
 )
 
 require (

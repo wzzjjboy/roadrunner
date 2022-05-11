@@ -1,7 +1,6 @@
 package container
 
 import (
-	"github.com/roadrunner-server/amqp/v2"
 	"github.com/roadrunner-server/beanstalk/v2"
 	"github.com/roadrunner-server/boltdb/v2"
 	"github.com/roadrunner-server/broadcast/v2"
@@ -32,6 +31,7 @@ import (
 	"github.com/roadrunner-server/static/v2"
 	"github.com/roadrunner-server/status/v2"
 	"github.com/roadrunner-server/websockets/v2"
+	"gitlab.yewifi.com/alan.wang/roadrunner-server/amqp/v2"
 
 	"github.com/roadrunner-server/kv/v2"
 	"github.com/roadrunner-server/memcached/v2"
